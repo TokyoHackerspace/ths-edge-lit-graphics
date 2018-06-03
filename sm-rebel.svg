@@ -1,0 +1,35 @@
+<svg id="Raster" xmlns="http://www.w3.org/2000/svg" width="157.34mm" height="199.67mm" viewBox="0 0 446 566">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: red;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 27px;
+        font-family: Square721BT-BoldCondensed, Square721 Cn BT;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-4 {
+        fill: blue;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.03em;
+      }
+    </style>
+  </defs>
+  <title>sm-rebel</title>
+  <g>
+    <g id="Box">
+      <path class="cls-1" d="M477.3,591V53a27.08,27.08,0,0,0-27-27H59.3a27.08,27.08,0,0,0-27,27V591" transform="translate(-31.8 -25.5)"/>
+    </g>
+    <line id="Box-2" data-name="Box" class="cls-1" x1="0.5" y1="565.5" x2="445.5" y2="565.5"/>
+  </g>
+  <text class="cls-2" transform="translate(129.28 453.63)">...there is no tr<tspan class="cls-3" x="158.33" y="0">y</tspan><tspan x="168.82" y="0">.”</tspan></text>
+  <path class="cls-4" d="M90.74,261.56c2-53.53,29.15-102.9,78.74-135.52.15,0,1.43-.41.84.7-3.92,3.64-74.55,87.06-9.54,152.92,0,0,34.15,32.83,60.64,1.67,0,0,26.13-33.83-.33-85.12,0,0-6.7-16.74-30.84-27.13l19.44-21.45s16.43,7.05,29.15,26.16c0,0,.67-20.12-14.74-41.57L254.23,98l29.84,33.87s-13.72,19.44-14.73,42.22c0,0,9.37-15.42,29.48-26.49l19.09,21.45s-18.35,6-30.65,26.91c-10.57,19.34-18.71,60.69.48,86.05,0,0,21.47,30.45,59.24-1.79,0,0,69.45-62.23-7.12-152.2,0,0-4.18-3.7.51-1.69,33.85,24.64,74.37,57.14,78.56,138.23-1.65,98.34-67.51,168.54-163.67,168.54-94.15,0-167.34-78.57-164.52-171.57" transform="translate(-31.8 -25.5)"/>
+  <text class="cls-2" transform="translate(143.02 55.63)">“Do or do not...</text>
+</svg>
